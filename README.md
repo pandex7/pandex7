@@ -1,41 +1,49 @@
-<h1 align="center"> 👋! I'm Henrique M Castro </h1>
-<h3 align="center"> A data engineer. </h3>
+<h2 align="left">Hi 👋! My name is  Henrique M Castro</h2>
 
-##### I am deepening my studies in Design and Implementation of Data Warehouses, big data, Machine Learning and AI in Distributed Environments, security and high data availability, cloud computing, Data Lake - Design, Project and Integration, Analytics, Visualization, Reporting and Decision Making with Big Data and data-driven projects.
+###
 
+<p align="left">A data engineer.<br><br>I am deepening my studies in Design and Implementation of Data Warehouses, big data, Machine Learning and AI in Distributed Environments, security and high data availability, cloud computing, Data Lake - Design, Project and Integration, Analytics, Visualization, Reporting and Decision Making with Big Data and data-driven projects.<br>👯 I’m looking to collaborate on Data Engineering projects<br><br>👨‍💻 All of my projects are available at https://pand-ex.github.io/<br><br>📫 How to reach me henricao_7@yahoo.com.br</p>
 
+###
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/henrique-castro7/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://pand-ex.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+</div>
 
+###
 
-- 👯 I’m looking to collaborate on **Data Engineering projects**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="30" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://pand-ex.github.io/](https://pand-ex.github.io/)
+###
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pandex7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pandex7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-- 📫 How to reach me **henricao_7@yahoo.com.br**
+###
 
+<br clear="both">
 
-<h3 align="left">Connect with me:</h3>
-<p>
-<a href="(https://www.linkedin.com/in/henrique-castro-484269203//" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ebraimcarvalho" height="40" width="30" /></a>
-<a href="https://twitter.com/pandeX__" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ebraimcarvalho" height="40" width="30" /></a>
+<img src="https://raw.githubusercontent.com/pandex7/pandex7/output/snake.svg" alt="Snake animation" />
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
-<a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
-  <a href="https://spark.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="spark" width="40" height="40"/> </a>
-  <a href="https://sqoop.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Apache_Sqoop_logo.svg" alt="sqoop" width="40" height="40"/> </a>
-  <a href="https://hbase.apache.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/hbase.svg" alt="hbase" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://cassandra.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
-
-
+###
