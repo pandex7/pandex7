@@ -6,7 +6,7 @@
 
 👯 I’m looking to collaborate on Data Engineering projects !!!!<br><br>
 
-👨‍💻 All of my projects are available at https://pand-ex.github.io/<br><br>📫 How to reach me henricao_7@yahoo.com.br </p>
+👨‍💻 All of my projects are available at https://pand-ex.github.io/<br><br>📫 How to reach me henricao_7@yahoo.com.br   </p>
 
 ###
 
