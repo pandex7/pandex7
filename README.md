@@ -4,7 +4,7 @@
 
 <p align="left"> A data engineer.<br><br>I am deepening my studies in Design and Implementation of Data Warehouses, big data, Machine Learning and AI in Distributed Environments, security and high data availability, cloud computing, Data Lake - Design, Project and Integration, Analytics, Visualization, Reporting and Decision Making with Big Data and data-driven projects.<br>
 
-👯 I’m looking to collaborate on Data Engineering projects !!!!<br><br>
+👯 I’m looking to collaborate on Data Engineering projects!!!!<br><br>
 
 👨‍💻 All of my projects are available at https://pand-ex.github.io/<br><br>📫 How to reach me henricao_7@yahoo.com.br </p>
 
