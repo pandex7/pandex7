@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"> A data engineer.<br><br>I am deepening my studies in Design and Implementation of Data Warehouses, big data, Machine Learning and AI in Distributed Environments, security and high data availability, cloud computing, Data Lake - Design, Project and Integration, Analytics, Visualization, Reporting and Decision Making with Big Data and data-driven projects. <br>
+<p align="left"> A data engineer.<br><br>With 4 years of experience designing and implementing large-scale data platforms. I architect and build robust, cloud-agnostic solutions (AWS, Azure, GCP) for real-time and batch processing. My expertise includes data orchestration, stream processing, and creating scalable Data Lakes & Warehouses that power analytics, ML, and real-time decision-making.. <br>
 
 👯 I’m looking to collaborate on Data Engineering projects !!!!<br><br>
 
