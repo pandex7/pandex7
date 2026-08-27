@@ -4,7 +4,7 @@
 
 <p align="left">
   <b>Data Architect | Senior Data Engineer</b><br><br>
-  Data professional with a strong background in Data Architecture, Data Engineering, and Quant Analytics. I design and build scalable, resilient data platforms and real-time streaming architectures across multi-cloud environments (Azure & AWS).<br><br>
+  Data professional with a strong background in Data Architecture, Data Engineering, and Quant Analytics. I design and build scalable, resilient data platforms and real-time streaming architectures across multi-cloud environments (Azure, AWS & GCP).<br><br>
   Currently acting as a Data Architect, driving cross-squad technical alignment, guiding multi-disciplinary engineering teams, and structuring high-throughput, event-driven pipelines (Kafka, Databricks, Delta Lake) in large-scale enterprise environments.<br><br>
   🎓 <b>Databricks Certified Data Engineer Associate</b> | <b>Harvard CS50x Alumnus</b><br><br>
   🤝 Open for collaboration on Data Architecture, Real-Time Streaming & AI/Data Platform Engineering projects.<br><br>
