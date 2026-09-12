@@ -23,8 +23,8 @@ I enjoy turning complex data challenges into practical platforms: from ingestion
   <img src="https://skillicons.dev/icons?i=python,postgres,aws,azure,gcp,kafka,docker,kubernetes,terraform,git" alt="Python, PostgreSQL, AWS, Azure, Google Cloud, Kafka, Docker, Kubernetes, Terraform and Git" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" alt="Databricks" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" alt="dbt" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
 </p>
 
 ## Featured work
@@ -37,12 +37,5 @@ I enjoy turning complex data challenges into practical platforms: from ingestion
 | [Streaming High Availability with GoldenGate](https://github.com/pandex7/Streaming_Alta_Disponibilidade_GoldenGate) | Highly available transactional data streaming and replication. |
 | [Data Warehouse on AWS Redshift](https://github.com/pandex7/DataWarehouse_AWS_Redshift) | Cloud Data Warehouse architecture using Amazon Redshift. |
 | [Data Lake Security with Kerberos](https://github.com/pandex7/DataLake_Hadoop_Seguranca_Kerberos) | Authentication, authorization, and protection for Hadoop Data Lakes. |
-
-## GitHub activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pandex7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Henrique's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandex7&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used languages" />
-</p>
 
 <p align="center"><i>Engineering data systems that are resilient by design and useful by default.</i></p>
