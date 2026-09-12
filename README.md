@@ -1,53 +1,48 @@
-<h2 align="left">Hi 👋! My name is Henrique M. Castro</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:0E7C7B,100:00E5A8&height=180&section=header&text=Henrique%20M.%20Castro&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=Data%20Architect%20%7C%20Senior%20Data%20Engineer&descAlignY=55&descSize=18" />
 
-###
-
-<p align="left">
-  <b>Data Architect | Senior Data Engineer</b><br><br>
-  Data professional with a strong background in Data Architecture, Data Engineering, and Quant Analytics. I design and build scalable, resilient data platforms and real-time streaming architectures across multi-cloud environments (Azure, AWS & GCP).<br><br>
-  Currently acting as a Data Architect, driving cross-squad technical alignment, guiding multi-disciplinary engineering teams, and structuring high-throughput, event-driven pipelines (Kafka, Databricks, Delta Lake) in large-scale enterprise environments.<br><br>
-  🎓 <b>Databricks Certified Data Engineer Associate</b> | <b>Harvard CS50x Alumnus</b><br><br>
-  🤝 Open for collaboration on Data Architecture, Real-Time Streaming & AI/Data Platform Engineering projects.<br><br>
-  👨‍💻 Portfolio & Articles: <a href="https://pand-ex.github.io/" target="_blank">https://pand-ex.github.io/</a><br><br>
-  📫 How to reach me: <a href="mailto:henricao_7@yahoo.com.br">henricao_7@yahoo.com.br</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/henrique-castro7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://pand-ex.github.io/"><img src="https://img.shields.io/badge/Portfolio-00BFA6?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:henricao_7@yahoo.com.br"><img src="https://img.shields.io/badge/Contact-0B1020?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-###
+## Building reliable data platforms
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/henrique-castro7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://pand-ex.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo" />
-  </a>
-</div>
+I am a Data Architect and Senior Data Engineer focused on designing scalable, resilient, and event-driven data platforms. My work connects data architecture, real-time streaming, cloud infrastructure, and analytics across AWS, Azure, and Google Cloud.
 
-###
+I enjoy turning complex data challenges into practical platforms: from ingestion and distributed storage to processing, orchestration, governance, and consumption.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="sql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="30" alt="spark logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="aws logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="30" alt="kafka logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" height="30" alt="dbt logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
-</div>
+- Designing data architectures for high-throughput, business-critical workloads.
+- Building batch and streaming pipelines with Kafka, Databricks, Delta Lake, and cloud-native services.
+- Guiding cross-functional engineering teams through technical alignment and delivery.
+- Databricks Certified Data Engineer Associate and Harvard CS50x alumnus.
 
-###
+## Core stack
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pandex7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pandex7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,aws,azure,gcp,kafka,docker,kubernetes,terraform,git" alt="Python, PostgreSQL, AWS, Azure, Google Cloud, Kafka, Docker, Kubernetes, Terraform and Git" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" alt="Apache Spark" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" alt="Databricks" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" alt="dbt" />
+</p>
+
+## Featured work
+
+| Project | Focus |
+| --- | --- |
+| [Case Jump](https://github.com/pandex7/Case_Jump) | Modern data pipeline with Databricks, dbt, Apache Airflow, and Power BI. |
+| [Data Lake on AWS: Kafka & StreamSets](https://github.com/pandex7/DataLake_AWS_Kafka_StreamSets) | Event-driven Data Lake messaging layer with Kafka and StreamSets. |
+| [Deploy ML with TensorFlow Serving & Kubernetes](https://github.com/pandex7/Deploy_ML_TensorFlowServing_Kubernetes_GCP) | Production-oriented ML serving on Google Cloud Platform. |
+| [Streaming High Availability with GoldenGate](https://github.com/pandex7/Streaming_Alta_Disponibilidade_GoldenGate) | Highly available transactional data streaming and replication. |
+| [Data Warehouse on AWS Redshift](https://github.com/pandex7/DataWarehouse_AWS_Redshift) | Cloud Data Warehouse architecture using Amazon Redshift. |
+| [Data Lake Security with Kerberos](https://github.com/pandex7/DataLake_Hadoop_Seguranca_Kerberos) | Authentication, authorization, and protection for Hadoop Data Lakes. |
+
+## GitHub activity
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pandex7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Henrique's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandex7&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used languages" />
+</p>
+
+<p align="center"><i>Engineering data systems that are resilient by design and useful by default.</i></p>
