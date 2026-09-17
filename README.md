@@ -6,7 +6,7 @@
   <a href="mailto:henricao_7@yahoo.com.br"><img src="https://img.shields.io/badge/Contact-0B1020?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## Building reliable data platforms
+## Building reliable data platforms 
 
 I am a Data Architect and Senior Data Engineer focused on designing scalable, resilient, and event-driven data platforms. My work connects data architecture, real-time streaming, cloud infrastructure, and analytics across AWS, Azure, and Google Cloud.
 
